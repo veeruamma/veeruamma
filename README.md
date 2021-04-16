@@ -19,7 +19,7 @@
  </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=veeruamma&show_icons=true&count_private=true&theme=dark"></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma&show_icons=true&count_private=true&theme=dark"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=veeruamma&show_icons=true&count_private=true&theme=dark"></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&show_icons=true&count_private=true&theme=dark"></a>
 </p>
 
   
