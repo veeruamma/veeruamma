@@ -27,7 +27,7 @@
 ## Education
 
 - 📖 **Master of Science (M.S)**\
-📆 2018 - 2020\
+📆 2018 - 2019\
 📍 **National Taiwan University of Science & Technology** - Taipei City, Taiwan
 
 - 📖 **Bachelor of Engineering (B.E)**\
@@ -35,9 +35,7 @@
 📍 **Basaveshwar Engineering College** - Bagalkot (Karnataka), India
 
 
-## Experience
-
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+## Professional Experience
 
 - 👨‍💻 **Data Science Researcher**\
 📆 2019 - Moment\
@@ -50,6 +48,10 @@
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Software Engineer**\
+📆 2014 - 2018\
+📍 **Tata Consultancy Services** - Bangalore (Karnataka), India
 
 
 <!--## Skills
