@@ -16,11 +16,10 @@
  </p>
 
 <p align='center'>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma)](https://github.com/veeruamma/github-readme-stats)
 </p>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
+
 
   
   <details>
@@ -48,4 +47,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
 -->
