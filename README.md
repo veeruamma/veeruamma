@@ -3,9 +3,7 @@
 
 
 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma)](https://github.com/veeruamma/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma)
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
