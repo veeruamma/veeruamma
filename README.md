@@ -26,18 +26,22 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Master of Science (M.S)**\
+📆 2018 - 2020\
+📍 **National Taiwan University of Science & Technology** - Taipei City, Taiwan
+
+- 📖 **Bachelor of Engineering (B.E)**\
+📆 2009 - 2013\
+📍 **Basaveshwar Engineering College** - Bagalkot (Karnataka), India
 
 
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - Moment\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+- 👨‍💻 **Data Science Researcher**\
+📆 2019 - Moment\
+📍 **Institute for Information Industry** - Taipei City, Taiwan
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
