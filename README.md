@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/veeruamma/veeruamma">
+  <a href="https://github.com/veeruamma/">
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
    </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/veeresh-ittangihal-74254b107/">
