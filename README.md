@@ -8,22 +8,28 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
 
 
-<!-- Actual text -->
+## 📬 Get in touch
+<p align='center'>
+<a href="https://www.linkedin.com/in/veeresh-ittangihal-74254b107/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  </p>
+  
+  
+  <details>
+  <summary>📃 My Resume</summary>
 
-You can find me on 
 
-<!-- Icons -->
+## Education
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
 
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/VIttangihal
-[2]: https://github.com/veeruamma
-[3]: https://www.linkedin.com/in/veeresh-ittangihal-74254b107/
-
+</details>
 
 <!--
 **veeruamma/veeruamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
