@@ -13,12 +13,12 @@
   <a href="https://www.instagram.com/veer_d_star/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  </p>
+ </p>
 
+<p align='center'>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma)](https://github.com/veeruamma/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma)](https://github.com/veeruamma/github-readme-stats)
+</p>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
 
