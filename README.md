@@ -2,16 +2,10 @@
   Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Veeresh 👨‍💻
 </h1>
 
+<p align='center'>
+  A Data Science Researcher and Software Developer.
+</p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma)](https://github.com/veeruamma/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma)
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
-
-
-## 📬 Get in touch
 <p align='center'>
 <a href="https://www.linkedin.com/in/veeresh-ittangihal-74254b107/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,7 +14,14 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   </p>
-  
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeruamma)](https://github.com/veeruamma/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=veeruamma)
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeruamma&repo=Face-Biometrics)
+
   
   <details>
   <summary>📃 My Resume</summary>
