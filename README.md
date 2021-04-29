@@ -46,13 +46,13 @@
 <img align="right" alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img align="right" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
-- 👨‍💻 **Data Science Researcher**\
+- 👨‍💻 **AI Research and Software Development Engineer**\
 📆 2019 - Moment\
 📍 **Institute for Information Industry** - Taipei City, Taiwan
 
 - 👨‍💻 **Software Engineer**\
 📆 2014 - 2018\
-📍 **Tata Consultancy Services** - Bangalore (Karnataka), India
+📍 **Tata Consultancy Services (GE R&D Center)** - Bangalore (Karnataka), India
 
 
 <!--## Skills
