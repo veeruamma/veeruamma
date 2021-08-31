@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Data Science Researcher and Software Developer.
+  A Data Science Researcher and Software Engineer.
 </p>
 
 <p align='center'>
